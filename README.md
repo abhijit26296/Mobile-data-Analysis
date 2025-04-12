@@ -2,6 +2,7 @@
 EDA Python Pandas Seaborn
 
 📌 Overview
+
 This project performs an Exploratory Data Analysis (EDA) on a dataset of mobile phones to extract business insights for mobile companies. The analysis covers pricing trends, feature comparisons, brand performance, and market segmentation—helping companies optimize their product offerings, pricing strategies, and marketing approaches.
 
 🔍 Key Questions Answered:
